@@ -1,1 +1,2 @@
-Alert("Hola mundo")
+Alert("Hola mundo editado")
+console.log ("cambio en el archivo")
